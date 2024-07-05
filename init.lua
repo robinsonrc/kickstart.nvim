@@ -579,6 +579,8 @@ require('lazy').setup({
         -- tsserver = {},
         --
 
+        rust_analyzer = {},
+
         lua_ls = {
           -- cmd = {...},
           -- filetypes = { ...},
